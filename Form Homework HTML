@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+  <header></header>
+  <section id='box-one'>
+    <article>
+  <h1 class='title'>Get In Touch</h1>
+  </br>
+  </article>
+  <article class='inputs'>
+  <form action=''>
+  <label for='first Name'>First Name</label>
+  </br>
+<input class="inputs" type='text' id='first name' name='first name' placeholder='enter first name here'>
+  </br>
+  <label for='surname'>Surname</label>
+</br>
+<input class="inputs" type="text" id='surname' name='surname' placeholder='enter surname here'>
+</br>
+  <label for='email'>Email</label>
+</br>
+<input class="inputs" type="text" id='email' name='email' placeholder='enter email here'>
+</br>
+  <label for='Message'>Message</label>
+</br>
+<input class="message"  type="text" id='message' name='message' placeholder=' enter message here'>
+</br> 
+<input type='submit' id='send a message' name='send a message' value='send a message' class='button'>
+</form>
+</article>
+</section>
+</body>
+</html>

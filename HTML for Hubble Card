@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <link rel="stylesheet" href="space-card.css">
+  <title>The Hubble Telescope</title>
+</head>
+<body>
+  <section class="container">
+  <article class='card'>
+    <img src="satelite-1.jpg"
+    <article class='card-text'>
+      <p class='category'>Image of space</p>
+      <h2>The Hubble </br> Telescope</h2>
+      <p>The Hubble Telescope hovers at the boundary of earth and space.</p>
+    </article>
+  </section>
+</body>
+</html>
+© 2022 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
